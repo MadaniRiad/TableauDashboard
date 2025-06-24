@@ -68,8 +68,10 @@ Le dashboard "Validation" regroupe toutes les vérifications effectuées sur les
 ---
 
 ## 📁 Arborescence du projet
+```
 /tableau-accidents-route
 ├── BDD AccidentsRadars.hyper
 ├── Accidents_Tableau.twb (MADANI-Riad.twb)
 ├── PrepFlow_Accidents.tfl (MADANI-Riad.tflx)
 └── README.md
+```
